@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
 
 ## Description
-This application is a Progressive Web Application (PWA) site that uses data persistance techniques. The application can be found in [Heroku](https://herokuapp.com/) but can also be cloned and run locally, see [Installation](#installation) and [Usage](#usage) for more details. This application was created to create notes or snippets with or without an internet connection and be able to  reliably retrieve them for later use.
+This application is a Progressive Web Application (PWA) site that uses data persistance techniques. The application can be found in [Heroku](https://hidden-escarpment-30090.herokuapp.com/) but can also be cloned and run locally, see [Installation](#installation) and [Usage](#usage) for more details. This application was created to create notes or snippets with or without an internet connection and be able to  reliably retrieve them for later use.
 
 This project has been the most complex we have been assigned as of yet. It was very challenging but great hands on practice setting up a PWA Application. I was able to practice implementing methods for getting and storing data to an IndexedDB database. Since I ran into many issues even uploading to Heroku I was able to really dive deep into this project.
 
@@ -28,23 +28,26 @@ How to install this application and getting started:
 * Visit http://localhost:3000/
 
 ## Usage
-You can find the deployed application by clicking on this link https://herokuapp.com/.
+You can find the deployed application by clicking on this link https://hidden-escarpment-30090.herokuapp.com/.
 
 ### Step 1
 > **Note**: Not all available options and steps will be demonstrated here
 * After the command has been invoked or if you visit the Heroku App you will see the landing page
 
-![Screenshot of landing page.](./)
+![Screenshot of landing page.](./assets/images/landing-screen.png)
 
 ### Step 2
 * When arriving to the app you'll see the JATE Header
+* You can start to create notes or snippets
+* It will auto save
+* You can download the PWA by clicking the `Install` button on the upper left hand corner
 
-![Screenshot of .](./)
+![Screenshot of .](./assets/images/install-app-prompt.png)
 
 ### Step 3
-* 
+* After installing the PWA y ou will see the application load like the following image
 
-![Screenshot of .](./)
+![Screenshot of .](./assets/images/landing-screen.png)
 > **Note**: Not all applications options are demonstrated or depicted here
 
 ## Contributing
